@@ -40,7 +40,6 @@ jupyter notebook notebooks/data_exploration.ipynb
 - The model uses a simple but effective architecture with only 212K parameters
 - Images are preprocessed to 200x200 RGB format with internal normalization
 - The trained model achieves 99.95% training accuracy and 100% test accuracy
-- Real-time inference capability for live ASL recognition applications
 
 ## Screenshots
 
